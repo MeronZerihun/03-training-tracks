@@ -1,9 +1,9 @@
 # PROFESSIONAL TRACK INFO
 
-Student Name: 
+Student Name: Meron Zerihun
 
-Track Name: 
+Track Name: Web Back-end Engineering
 
-Track Description: 
+Track Description: Web Back-end engineering using Node.js
 
 ![MSD Logo](assets/logo-small.png "MSD Logo") 
